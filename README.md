@@ -4,9 +4,7 @@
 I'm a software developer with a passion for open source projects.
 
 ## Links
-- [My Website](https://www.mywebsite.com)
-- [LinkedIn](https://www.linkedin.com/in/myprofile)
-- [My Blog](https://www.myblog.com)
+- [LinkedIn](https://www.linkedin.com/in/godfrey-tshehla-10216a104/)
 
 ## CV
 - [Download my CV](https://www.example.com/mycv.pdf)

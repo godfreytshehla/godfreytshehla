@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Dumela! Welcome to My GitHub Profile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/godfrey-tshehla-10216a104/)
 [![Download my CV](https://img.shields.io/badge/Download%20CV-orange)](https://github.com/user-attachments/files/15841443/Godfrey_Tshehla_CV.pdf)
